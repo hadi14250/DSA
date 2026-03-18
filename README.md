@@ -9,6 +9,7 @@ A collection of LeetCode problems organized by patterns and topics.
 ### Arrays & Hashing
 - [Group Anagrams](./Arrays%20&%20Hashing/Group%20Anagrams) - Medium
 - [Top K Frequent Elements](./Arrays%20&%20Hashing/Top%20K%20Frequent%20Elements) - Medium
+- [Product of Array Except Self](./Arrays%20&%20Hashing/Product%20of%20Array%20Except%20Self) - Medium
 
 ### Two Pointers
 _Coming soon..._
