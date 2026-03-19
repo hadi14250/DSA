@@ -13,6 +13,7 @@ A collection of LeetCode problems organized by patterns and topics.
 
 ### Two Pointers
 - [Two Sum II - Input Array Is Sorted](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) - Medium
+- [3Sum](./Two%20Pointers/3Sum) - Medium
 
 ### Sliding Window
 _Coming soon..._
