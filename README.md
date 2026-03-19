@@ -12,7 +12,7 @@ A collection of LeetCode problems organized by patterns and topics.
 - [Product of Array Except Self](./Arrays%20&%20Hashing/Product%20of%20Array%20Except%20Self) - Medium
 
 ### Two Pointers
-_Coming soon..._
+- [Two Sum II - Input Array Is Sorted](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) - Medium
 
 ### Sliding Window
 _Coming soon..._
