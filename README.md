@@ -16,7 +16,7 @@ A collection of LeetCode problems organized by patterns and topics.
 - [3Sum](./Two%20Pointers/3Sum) - Medium
 
 ### Sliding Window
-_Coming soon..._
+- [Longest Substring Without Repeating Characters](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters) - Medium
 
 ### Stack
 _Coming soon..._
