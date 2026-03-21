@@ -25,7 +25,7 @@ _Coming soon..._
 _Coming soon..._
 
 ### Linked List
-_Coming soon..._
+- [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List) - Medium
 
 ### Trees
 _Coming soon..._
