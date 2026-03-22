@@ -34,7 +34,7 @@ _Coming soon..._
 _Coming soon..._
 
 ### Heap / Priority Queue
-_Coming soon..._
+- [Kth Largest Element in an Array](./Heap%20(Priority%20Queue)/Kth%20Largest%20Element%20In%20An%20Array) - Medium
 
 ### Backtracking
 _Coming soon..._
