@@ -28,7 +28,7 @@ _Coming soon..._
 - [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List) - Medium
 
 ### Trees
-_Coming soon..._
+- [Lowest Common Ancestor in Binary Search Tree](./Trees/Lowest%20Common%20Ancestor%20in%20Binary%20Search%20Tree) - Medium
 
 ### Tries
 _Coming soon..._
