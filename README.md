@@ -29,6 +29,7 @@ _Coming soon..._
 
 ### Trees
 - [Lowest Common Ancestor in Binary Search Tree](./Trees/Lowest%20Common%20Ancestor%20in%20Binary%20Search%20Tree) - Medium
+- [Insert into a Binary Search Tree](./Trees/Insert%20into%20a%20Binary%20Search%20Tree) - Medium
 
 ### Tries
 _Coming soon..._
