@@ -17,6 +17,7 @@ A collection of LeetCode problems organized by patterns and topics.
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters) - Medium
+- [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./Sliding%20Window/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) - Medium
 
 ### Stack
 _Coming soon..._
