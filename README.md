@@ -34,6 +34,9 @@ _Coming soon..._
 - [Insert into a Binary Search Tree](./Trees/Insert%20into%20a%20Binary%20Search%20Tree) - Medium
 - [Delete Node in a BST](./Trees/Delete%20Node%20in%20a%20BST) - Medium
 
+### Breadth First Search - Trees
+- [Binary Tree Level Order Traversal](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Level%20Order%20Traversal) - Medium
+
 ### Tries
 _Coming soon..._
 
