@@ -36,6 +36,7 @@ _Coming soon..._
 
 ### Breadth First Search - Trees
 - [Binary Tree Level Order Traversal](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Level%20Order%20Traversal) - Medium
+- [Binary Tree Right Side View](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Right%20Side%20View) - Medium
 
 ### Tries
 _Coming soon..._
