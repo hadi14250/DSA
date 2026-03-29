@@ -38,6 +38,9 @@ _Coming soon..._
 - [Binary Tree Level Order Traversal](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Level%20Order%20Traversal) - Medium
 - [Binary Tree Right Side View](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Right%20Side%20View) - Medium
 
+### Depth First Search - Trees
+- [Kth Smallest Integer in BST](./Depth%20First%20Search%20-%20Trees/Kth%20Smallest%20Integer%20in%20BST) - Medium
+
 ### Tries
 _Coming soon..._
 
