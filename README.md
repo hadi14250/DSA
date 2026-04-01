@@ -17,14 +17,15 @@ A collection of LeetCode problems organized by patterns and topics.
 | 7 | [Number of Sub-arrays of Size K and Average ≥ Threshold](./Sliding%20Window/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | Sliding Window | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 8 | [Minimum Size Subarray Sum](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum) | Sliding Window | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 9 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List) | Linked List | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 10 | [Lowest Common Ancestor in BST](./Trees/Lowest%20Common%20Ancestor%20in%20Binary%20Search%20Tree) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 11 | [Insert into a Binary Search Tree](./Trees/Insert%20into%20a%20Binary%20Search%20Tree) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 12 | [Delete Node in a BST](./Trees/Delete%20Node%20in%20a%20BST) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 13 | [Construct Binary Tree from Preorder and Inorder Traversal](./Trees/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 14 | [Binary Tree Level Order Traversal](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Level%20Order%20Traversal) | BFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 15 | [Binary Tree Right Side View](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Right%20Side%20View) | BFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 16 | [Kth Smallest Integer in BST](./Depth%20First%20Search%20-%20Trees/Kth%20Smallest%20Integer%20in%20BST) | DFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 17 | [Kth Largest Element in an Array](./Heap%20(Priority%20Queue)/Kth%20Largest%20Element%20In%20An%20Array) | Heap / Priority Queue | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 10 | [LRU Cache](./Linked%20List/LRU%20Cache) | Linked List | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 11 | [Lowest Common Ancestor in BST](./Trees/Lowest%20Common%20Ancestor%20in%20Binary%20Search%20Tree) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 12 | [Insert into a Binary Search Tree](./Trees/Insert%20into%20a%20Binary%20Search%20Tree) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 13 | [Delete Node in a BST](./Trees/Delete%20Node%20in%20a%20BST) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 14 | [Construct Binary Tree from Preorder and Inorder Traversal](./Trees/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 15 | [Binary Tree Level Order Traversal](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Level%20Order%20Traversal) | BFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 16 | [Binary Tree Right Side View](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Right%20Side%20View) | BFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 17 | [Kth Smallest Integer in BST](./Depth%20First%20Search%20-%20Trees/Kth%20Smallest%20Integer%20in%20BST) | DFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 18 | [Kth Largest Element in an Array](./Heap%20(Priority%20Queue)/Kth%20Largest%20Element%20In%20An%20Array) | Heap / Priority Queue | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
 ---
 
@@ -37,12 +38,12 @@ A collection of LeetCode problems organized by patterns and topics.
 | Sliding Window | 6 – 8 |
 | Stack | _Coming soon_ |
 | Binary Search | _Coming soon_ |
-| Linked List | 9 |
-| Trees | 10 – 13 |
-| BFS - Trees | 14 – 15 |
-| DFS - Trees | 16 |
+| Linked List | 9 – 10 |
+| Trees | 11 – 14 |
+| BFS - Trees | 15 – 16 |
+| DFS - Trees | 17 |
 | Tries | _Coming soon_ |
-| Heap / Priority Queue | 17 |
+| Heap / Priority Queue | 18 |
 | Backtracking | _Coming soon_ |
 | Graphs | _Coming soon_ |
 | Dynamic Programming | _Coming soon_ |
