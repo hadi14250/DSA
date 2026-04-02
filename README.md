@@ -26,6 +26,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | 16 | [Binary Tree Right Side View](./Breadth%20First%20Search%20-%20Trees/Binary%20Tree%20Right%20Side%20View) | BFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 17 | [Kth Smallest Integer in BST](./Depth%20First%20Search%20-%20Trees/Kth%20Smallest%20Integer%20in%20BST) | DFS - Trees | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 18 | [Kth Largest Element in an Array](./Heap%20(Priority%20Queue)/Kth%20Largest%20Element%20In%20An%20Array) | Heap / Priority Queue | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 19 | [Number of Islands](./Depth%20First%20Search%20-%20Graphs/Number%20of%20Islands) | DFS - Graphs | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
 ---
 
@@ -45,7 +46,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | Tries | _Coming soon_ |
 | Heap / Priority Queue | 18 |
 | Backtracking | _Coming soon_ |
-| Graphs | _Coming soon_ |
+| DFS - Graphs | 19 |
 | Dynamic Programming | _Coming soon_ |
 | Greedy | _Coming soon_ |
 | Intervals | _Coming soon_ |
