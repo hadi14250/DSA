@@ -29,6 +29,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | 19 | [Number of Islands](./Depth%20First%20Search%20-%20Graphs/Number%20of%20Islands) | DFS - Graphs | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 21 | [Course Schedule](./Depth%20First%20Search%20-%20Graphs/Course%20Schedule) | DFS - Graphs | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 20 | [Rotting Oranges](./Breadth%20First%20Search%20-%20Graphs/Rotting%20Oranges) | BFS - Graphs | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 22 | [Shortest Path in Binary Matrix](./Breadth%20First%20Search%20-%20Graphs/Shortest%20Path%20in%20Binary%20Matrix) | BFS - Graphs | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
 ---
 
@@ -49,7 +50,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | Heap / Priority Queue | 18 |
 | Backtracking | _Coming soon_ |
 | DFS - Graphs | 19, 21 |
-| BFS - Graphs | 20 |
+| BFS - Graphs | 20, 22 |
 | Dynamic Programming | _Coming soon_ |
 | Greedy | _Coming soon_ |
 | Intervals | _Coming soon_ |
