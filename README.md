@@ -13,6 +13,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | 3 | [Product of Array Except Self](./Arrays%20&%20Hashing/Product%20of%20Array%20Except%20Self) | Arrays & Hashing | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 4 | [Two Sum II - Input Array Is Sorted](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | Two Pointers | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 5 | [3Sum](./Two%20Pointers/3Sum) | Two Pointers | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 23 | [Append Characters to String to Make Subsequence](./Two%20Pointers/Append%20Characters%20to%20String%20to%20Make%20Subsequence) | Two Pointers | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 6 | [Longest Substring Without Repeating Characters](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters) | Sliding Window | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 7 | [Number of Sub-arrays of Size K and Average ≥ Threshold](./Sliding%20Window/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | Sliding Window | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 8 | [Minimum Size Subarray Sum](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum) | Sliding Window | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
@@ -38,7 +39,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | Pattern | Problems |
 |---------|----------|
 | Arrays & Hashing | 1 – 3 |
-| Two Pointers | 4 – 5 |
+| Two Pointers | 4 – 5, 23 |
 | Sliding Window | 6 – 8 |
 | Stack | _Coming soon_ |
 | Binary Search | _Coming soon_ |
