@@ -9,6 +9,7 @@ A collection of LeetCode problems organized by patterns and topics.
 | # | Problem | Pattern | Difficulty |
 |---|---------|---------|------------|
 | 24 | [Contains Duplicate](./Arrays%20&%20Hashing/Contains%20Duplicate) | Arrays & Hashing | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 25 | [Valid Anagram](./Arrays%20&%20Hashing/Valid%20Anagram) | Arrays & Hashing | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 1 | [Group Anagrams](./Arrays%20&%20Hashing/Group%20Anagrams) | Arrays & Hashing | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 2 | [Top K Frequent Elements](./Arrays%20&%20Hashing/Top%20K%20Frequent%20Elements) | Arrays & Hashing | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 3 | [Product of Array Except Self](./Arrays%20&%20Hashing/Product%20of%20Array%20Except%20Self) | Arrays & Hashing | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
@@ -39,7 +40,7 @@ A collection of LeetCode problems organized by patterns and topics.
 
 | Pattern | Problems |
 |---------|----------|
-| Arrays & Hashing | 24, 1 – 3 |
+| Arrays & Hashing | 24, 25, 1 – 3 |
 | Two Pointers | 4 – 5, 23 |
 | Sliding Window | 6 – 8 |
 | Stack | _Coming soon_ |
