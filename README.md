@@ -73,5 +73,5 @@ Each problem directory contains:
 ```bash
 cd "Pattern/Problem Name"
 make run      # build and run tests
-# make fclean   # clean build files
+make fclean   # clean build files
 ```
