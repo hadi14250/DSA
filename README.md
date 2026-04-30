@@ -65,7 +65,7 @@ A collection of LeetCode problems organized by patterns and topics.
 ## Build & Run
 
 Each problem directory contains:
-- `README.md` — problem description and examples
+- `README.md` —- problem description and examples
 - Solution implementation file
 - `main.cpp` — test cases
 - `Makefile` — build configuration
